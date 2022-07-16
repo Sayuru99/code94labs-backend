@@ -2,7 +2,10 @@
 vender portal MERN
 
 open terminal  
+```npm i```
+
 ```cd backend```  
+
 ```npm start app```  
 
 Now server is running on port 8082  
